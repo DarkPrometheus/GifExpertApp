@@ -3,5 +3,5 @@ Pagina web hecha en React la cual a través de una api se conecta a los servicio
 
 Usa la app [aquí](https://emmanuelfrias.com/GifExpertApp/)
 
-![ejemplo-programacion](C:\Users\Emmanuel\Desktop\Proyectos\Udemy\GifExpertApp\ejemplo-programacion.png)
+![ejemplo-programacion](.\ejemplo-programacion.png)
 
